@@ -1,6 +1,9 @@
 # AICyberSeries-Project1-Intro
  Introduction to the series, setting up the environment
 # AICyberSeries-Project1-Gemini Clone 
+![Screenshot 2024-05-25 095637](https://github.com/SirCodeKnight/AICyberSeries-Project1-Gemini/assets/170753608/aa084dda-a6e3-4394-b13d-f97151bc3698)
+
+ GO!https://jarvis003.netlify.app/
 
 ## Overview
 Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
